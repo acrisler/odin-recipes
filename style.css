@@ -1,0 +1,54 @@
+body {
+    background-color: thistle;
+    font-family:'Courier New', Courier, monospace
+}
+
+.title{
+    color:tomato;
+    font-family: Helvetica, sans-serif;
+    font-size: 62px;
+    text-align:center;
+}
+
+.title.recipe{
+    background-color:rgba(150, 243, 150, 0.87);
+    font-size: 45px;
+    text-align:justify;
+}
+
+.dinner{
+    background-color:yellow;
+}
+
+img{
+    width: 500px;
+    height: auto;
+
+}
+
+#ingredient{
+    background-color: tomato;
+    font-size:30px;
+    color:wheat;
+}
+
+.desc{
+    text-align: right;
+}
+
+.instruction{
+    background-color: rgb(93, 162, 194);
+}
+
+.dessert{
+    background-color:pink;
+    color:purple;
+    font-family: monospace;
+    text-align:center;
+}
+
+#test{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color:saddlebrown;
+}

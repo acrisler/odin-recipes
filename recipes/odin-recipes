@@ -1,0 +1,32 @@
+/* Index and Shared Styles*/
+* {
+    background-color:rgb(173, 236, 171);
+    font-family: Helvetica, sans-serif;
+}
+
+h1{
+    background-color: rgb(197, 159, 233);
+    color:rgb(46, 33, 59);
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+}
+
+.dinner{
+    color:crimson;
+    font-size: 62px;
+    background-color:yellow;
+}
+
+.fish{
+    color:coral;
+    font-size:40px;
+}
+
+.dessert{
+    color:azure;
+    background-color:black;
+    font-weight: bold;
+}
+/*Recipe Pages Styles*/
